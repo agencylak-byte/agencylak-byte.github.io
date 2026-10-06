@@ -1,12 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <radialGradient id="g" cx="30%" cy="25%" r="80%">
-      <stop offset="0%" stop-color="#ab8ff1"/>
-      <stop offset="60%" stop-color="#8960f0" stop-opacity=".35"/>
-      <stop offset="100%" stop-color="#08080a" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="#08080a"/>
-  <rect width="64" height="64" rx="14" fill="url(#g)"/>
-  <text x="32" y="41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-2" fill="#ffffff">LAK</text>
+  <defs><radialGradient id="g" cx="30%" cy="25%" r="80%"><stop offset="0%" stop-color="#ab8ff1"/><stop offset="60%" stop-color="#8960f0" stop-opacity=".35"/><stop offset="100%" stop-color="#08080a" stop-opacity="0"/></radialGradient></defs>
+  <rect width="64" height="64" rx="14" fill="#08080a"/><rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <g transform="translate(8 27.4) scale(0.02440) translate(-18 -22)"><path fill="#fff" fill-rule="evenodd" d="M18,25 L125,25 L125,322 L540,322 L540,368 L18,368Z M575,368 L875,28 L1000,28 L1300,368 L1180,368 L1105,282 L760,282 L690,368Z M932,90 L1062,243 L803,243Z M1335,25 L1442,25 L1442,208 L1830,22 L1960,22 L1660,172 L1985,368 L1835,368 L1590,203 L1442,265 L1442,368 L1335,368Z"/></g>
 </svg>
